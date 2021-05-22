@@ -1,4 +1,7 @@
 Projeto de Desenvolvimento Web para Futuramente estar praticando Automação
 
 1 - Fundamentos de JS 
-Inicio: 13/05
+Tempo: 13/05  ~ 22/05
+
+2 - Estruturas de Controle
+Tempo: 22/05
