@@ -14,4 +14,4 @@ let ola = function () {
 }
 
 ola = () => 'Olá'
-ola = _ => 'Olá' 
+ola = _ => 'Olá'  
